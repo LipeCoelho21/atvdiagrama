@@ -1,4 +1,4 @@
-package PROJETO.src.uniderp.poo.escola.dominio;
+package uniderp.poo.escola.dominio;
 
 public abstract class BaseIdentificador {
     
@@ -15,6 +15,4 @@ public abstract class BaseIdentificador {
     public BaseIdentificador(int codigo) {
         this.codigo = codigo;
     }
-    
-    
 }
